@@ -13,7 +13,6 @@ from third_parties.linkedin import scrape_linkedin_profile
 from agents.linkedin_lookup_agent import linkedin_lookup
 from agent_tools.output_parser import summary_parser, Summary
 
-
 def ice_break_linked_url(name: str) -> Tuple[Summary, str]:
     linkedin_username = linkedin_lookup(name=name)
     linkedin_info = scrape_linkedin_profile(url = linkedin_username)
