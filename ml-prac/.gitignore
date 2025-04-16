@@ -1,8 +1,0 @@
-# Ignore virtual environments
-venv/
-
-# Ignore Python byte code
-*.pyc
-
-# Ignore system-specific files
-.DS_Store

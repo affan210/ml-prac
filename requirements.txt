@@ -1,0 +1,8 @@
+pipenv # for python virtual environments
+python-dotenv # for loading environment variables from .env files
+
+langchain # for LLMs and chatbots
+langchain-community # for community LLMs
+langchainhub # for loading models from the hub
+langchain-openai # for OpenAI LLMs
+langchain-ollama # for Llama LLMs
