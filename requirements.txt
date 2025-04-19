@@ -6,3 +6,5 @@ langchain-community # for community LLMs
 langchainhub # for loading models from the hub
 langchain-openai # for OpenAI LLMs
 langchain-ollama # for Llama LLMs
+
+langchain-pinecone # for Pinecone vector store

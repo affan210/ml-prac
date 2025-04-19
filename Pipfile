@@ -13,6 +13,7 @@ langchain-community = "*"
 langchainhub = "*"
 python-dotenv = "*"
 langchain-ollama = "*"
+langchain-pinecone = "*"
 
 [dev-packages]
 
